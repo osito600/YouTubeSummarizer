@@ -24,6 +24,10 @@ A robust Python tool that automatically extracts transcripts from YouTube videos
 
 2. Install the required dependencies:
 
+     pip install -r requirements.txt
+                  or    
+     python -m pip install -r requirements.txt
+
 
 ## Configuration
 
